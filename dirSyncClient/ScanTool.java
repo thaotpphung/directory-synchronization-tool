@@ -56,7 +56,7 @@ public class ScanTool {
 	}
 
 	/**
-	 * Close File
+	 * Closes File
 	 */
 	public void closeFile() {
 		if (output != null)
